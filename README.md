@@ -1,0 +1,2 @@
+## POO Concepts Practice
+This repository contains examples and exercises designed to solidify foundational concepts in Object-Oriented Programming (OOP). It focuses on core principles like abstraction, encapsulation, inheritance, and association, with practical implementations to demonstrate their usage.
